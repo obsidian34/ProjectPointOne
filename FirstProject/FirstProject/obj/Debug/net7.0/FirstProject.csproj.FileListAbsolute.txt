@@ -1,0 +1,15 @@
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/bin/Debug/net7.0/FirstProject
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/bin/Debug/net7.0/FirstProject.deps.json
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/bin/Debug/net7.0/FirstProject.runtimeconfig.json
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/bin/Debug/net7.0/FirstProject.dll
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/bin/Debug/net7.0/FirstProject.pdb
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/FirstProject.csproj.AssemblyReference.cache
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/FirstProject.AssemblyInfoInputs.cache
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/FirstProject.AssemblyInfo.cs
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/FirstProject.csproj.CoreCompileInputs.cache
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/FirstProject.dll
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/refint/FirstProject.dll
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/FirstProject.pdb
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/FirstProject.genruntimeconfig.cache
+/Users/bex/my-code/ProjectPointOne/FirstProject/FirstProject/obj/Debug/net7.0/ref/FirstProject.dll
